@@ -1,4 +1,4 @@
-How did viewing a diff between two versions of a file help you see the bug that
+﻿How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
     By looking for mistakes on the differences shown.
@@ -31,3 +31,4 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     New codes, anything I can!
+ DIFERENCIAS2
